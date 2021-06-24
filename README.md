@@ -1,4 +1,4 @@
-<h2>Hello, Welcome to <b><i>Somsubhra's GitHub</i></b> <img src='https://emoji.gg/assets/emoji/wavegif_1860.gif' height='36'></img></h2>
+<h2>Hello, Welcome to <b><i>Somsubhra's GitHub</i></b> <img src='https://im4.ezgif.com/tmp/ezgif-4-9ac3f007ff96.gif' height='50'></img></h2>
 
 - 👀 I’m interested in <b>Mathematics, AI, Web-development (Coding)</b>
 - 🌱 I’m currently studying in <b>12th standard</b>.
