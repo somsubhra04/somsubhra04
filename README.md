@@ -1,4 +1,4 @@
-<h2>Hello, Welcome to <b><i>Somsubhra's GitHub</i></b> <img src='https://im4.ezgif.com/tmp/ezgif-4-9ac3f007ff96.gif' height='40'></img></h2>
+<h2>Hello, Welcome to <b><i>Somsubhra's GitHub</i></b> <img src='/wave.gif' height='40'></img></h2>
 
 <h4>Basic Profile</h4>
 
