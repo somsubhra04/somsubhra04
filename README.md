@@ -1,6 +1,6 @@
-<h2>Hello, Welcome to <b><i>Somsubhra's GitHub</i></b> <img src='https://raw.githubusercontent.com/somsubhra04/cyraksha/main/wave.gif' height='40'></img></h2>
+<h2>Hola! Glad that you reached here</h2>
 
-<h4>Basic Profile</h4>
+<h4>Basic Details</h4>
 
 - 👀 I’m interested in <b>Mathematics, AI, Web-development (Coding)</b>
 - 🌱 I’m currently studying in <b>12th standard</b>.
