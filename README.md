@@ -10,8 +10,9 @@
 
 <a href='https://www.w3.org/standards/webdesign/htmlcss.html'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'></a>&nbsp;&nbsp;<a href='https://www.python.org/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'></a>&nbsp;&nbsp;<a href='https://www.java.com/en/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'></a>&nbsp;&nbsp;<a href='https://www.php.net/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg'></a></img>
 
-<!---
-somsubhra04/somsubhra04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----><!--![hello](https://user-images.githubusercontent.com/82537035/123259412-0ed68700-d512-11eb-97d4-d0497c495285.gif)-->
+<h4>Coding Stats</h4>
+
+<a href="https://github.com/somsubhra04">
+    	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=somsubhra04&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
+</a>
 
