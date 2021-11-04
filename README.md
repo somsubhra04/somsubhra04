@@ -1,4 +1,4 @@
-<h3><font color='#016064'>HOLA! Glad that you reached here</font></h3>
+<font color='#016064'>HOLA! Glad that you reached here</font>
 
 <h4><font color='#990F02'>Basic Details</font></h4>
 
