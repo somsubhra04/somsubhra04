@@ -1,4 +1,4 @@
-<h2>Hola! Glad that you reached here</h2>
+<h2>Hola! Glad that you reached here <a href='https://github.com/somsubhra04'><img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"></img></a></h2>
 
 <h4>Basic Details</h4>
 
@@ -18,4 +18,3 @@
 <a href="https://github.com/somsubhra04">
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=somsubhra04&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
 </a>
-
