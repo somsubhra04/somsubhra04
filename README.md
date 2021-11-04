@@ -13,7 +13,8 @@
 <h4>Coding Stats</h4>
 <a href="https://github.com/somsubhra04">
             <img src="https://github-readme-stats.vercel.app/api?username=somsubhra04&hide=issue&show_icons=true&theme=gotham" alt="Somsubhra's Stats" height="160">
-    </a>
+        	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somsubhra04&theme=onedark&count_private=true&theme=gotham" height=160>
+</a>
 <a href="https://github.com/somsubhra04">
     	<img align="center" src="https://activity-graph.herokuapp.com/graph?username=somsubhra04&bg_color=0C1014&color=2AA789&line=2AA790&point=fff&area=2AA789">
 </a>
