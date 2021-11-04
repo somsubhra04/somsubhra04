@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in <b>Mathematics, AI & Coding</b>
 - 🌱 I’m currently studying in <b>12th standard</b>.
-- 📫 How to reach me? Contact me through <b><a href='https://linktr.ee/somsubhra' target='_blank'>Linktr.ee</a></b>
+- 📫 How to reach me? Contact me through <b><a href='https://linktr.ee/somsubhra' target='_blank'>Linktr.ee</a> or my <a href='https://somsubhra04.github.io' target='_blank'>personal webpage</a>!</b>
 
 <h4>Most Required Programming Skills I Have</h4>
 
