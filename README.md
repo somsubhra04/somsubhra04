@@ -1,6 +1,6 @@
-<h2>Hola! Glad that you reached here <a href='https://github.com/somsubhra04'><img src="https://img.icons8.com/emoji/48/000000/waving-hand-emoji.png"></img></a></h2>
+<h2><font color='#016064'>HOLA! Glad that you reached here</font></h2>
 
-<h4>Basic Details</h4>
+<h4><font color='#990F02'>Basic Details</font></h4>
 
 - 👀 I’m interested in <b>Mathematics, AI, Web-development (Coding)</b>
 - 🌱 I’m currently studying in <b>12th standard</b>.
