@@ -2,9 +2,8 @@
 
 <h4><font color='#990F02'>Basic Details</font></h4>
 
-I'm a class 12 CS student from Kolkata, India.
-Science Lover and AI Enthusiast.
-I believe in #Code4Good
+A class 12 CS student from Kolkata, India. Science Lover and AI Enthusiast.<br>
+Reach out to me via my <a href="https://linktr.ee/somsubhra" target="_blank">Linktree</a> account!
 
 <h4>Most Required Programming Skills That I Have</h4>
 
