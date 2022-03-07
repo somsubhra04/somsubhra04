@@ -2,9 +2,9 @@
 
 <h4><font color='#990F02'>Basic Details</font></h4>
 
-- 👀 I’m interested in <b>Mathematics, AI & Coding</b>
-- 🌱 I’m currently studying in <b>12th standard</b>.
-- 📫 How to reach me? Contact me through <b><a href='https://linktr.ee/somsubhra' target='_blank'>Linktr.ee</a> or my <a href='https://somsubhra04.github.io' target='_blank'>personal webpage</a> !</b>
+I'm a class 12 CS student from Kolkata, India.
+Science Lover and AI Enthusiast.
+I believe in #Code4Good
 
 <h4>Most Required Programming Skills That I Have</h4>
 
