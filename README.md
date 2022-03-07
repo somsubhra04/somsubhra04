@@ -8,7 +8,7 @@
 
 <h4>Most Required Programming Skills That I Have</h4>
 
-<a href='https://www.w3.org/standards/webdesign/htmlcss.html'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'></a>&nbsp;&nbsp;<a href='https://www.python.org/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'></a>&nbsp;&nbsp;<a href='https://www.java.com/en/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'></a>&nbsp;&nbsp;<a href='https://www.php.net/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg'></a></img><br>
+<a href='https://www.w3.org/standards/webdesign/htmlcss.html'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg'></a>&nbsp;&nbsp;<a href='https://www.python.org/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg'></a>&nbsp;&nbsp;<a href='https://www.java.com/en/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg'></a>&nbsp;&nbsp;<a href='https://www.php.net/'><img src='https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg'></a></img>&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg"></img><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsubhra04&layout=compact&theme=dark" alt="Somsubhra's Coding Languages So Far" height="200"></img>
 
 
