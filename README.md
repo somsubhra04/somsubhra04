@@ -1,6 +1,6 @@
 <h3>HELLO! I'm glad that you reached here</h3>
 
-<h4><font color='#990F02'>Basic Details</font></h4>
+<h4><font color='#990F02'>About me</font></h4>
 
 A class 12 CS student from Kolkata, India. Science Lover and AI Enthusiast.<br>
 Reach out to me via my <a href="https://linktr.ee/somsubhra" target="_blank">Linktree</a> account!
