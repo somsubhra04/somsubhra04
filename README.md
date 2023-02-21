@@ -1,4 +1,4 @@
-<h3>HELLO! I'm glad that you reached here</h3>
+<h3>HELLO!</h3>
 
 <h4>Most Required Programming Skills That I Have</h4>
 
@@ -6,7 +6,6 @@
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsubhra04&layout=compact&theme=dark" alt="Somsubhra's Coding Languages So Far" height="180"></img>-->
 
 
-<h4>My Coding Stats</h4>
 <a href="https://github.com/somsubhra04">
             <img src="https://github-readme-stats.vercel.app/api?username=somsubhra04&hide=issue&show_icons=true&theme=gotham" alt="Somsubhra's Stats" height="160">
         	    <img src="https://github-readme-streak-stats.herokuapp.com/?user=somsubhra04&theme=onedark&count_private=true&theme=gotham" height=160>
