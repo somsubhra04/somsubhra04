@@ -5,6 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FFEB00?style=flat&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5C00?style=flat&logo=astro&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## Some stats ...
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsubhra04&layout=compact&theme=dark" height="180">
