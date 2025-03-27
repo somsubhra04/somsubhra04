@@ -23,6 +23,5 @@
 ## Some stats ...
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsubhra04&layout=compact&theme=dark" height="180">
 <img src="https://github-readme-stats.vercel.app/api?username=somsubhra04&hide=issue&show_icons=true&theme=gotham" alt="Somsubhra's Stats" height="160">
-<a href="https://github.com/somsubhra04">           
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=somsubhra04&theme=onedark&count_private=true&theme=gotham" height=160>
-</a>
+
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=somsubhra04&theme=gotham)](https://git.io/streak-stats)
