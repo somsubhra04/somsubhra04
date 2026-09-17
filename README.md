@@ -21,7 +21,4 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
 
 ## Some stats ...
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=somsubhra04&layout=compact&theme=dark" height="180">
-<img src="https://github-readme-stats.vercel.app/api?username=somsubhra04&hide=issue&show_icons=true&theme=gotham" alt="Somsubhra's Stats" height="160">
-
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=somsubhra04&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=somsubhra04&short_numbers=true)](https://git.io/streak-stats)
